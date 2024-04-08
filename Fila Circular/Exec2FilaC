@@ -1,0 +1,8 @@
+Sim, a fila esta cheia segundo a formula de fila cheia [(fim+1)%qtd==inicio], prova abaixo
+Inicio = 5;
+Fim = 4;
+Qtd = 10;
+
+(fim+1)%qtd==inicio
+(4+1)%10==5
+5%10==5 - VERDADE
