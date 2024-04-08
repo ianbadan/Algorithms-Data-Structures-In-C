@@ -1,0 +1,41 @@
+Ordem Aleatoria
+
+Tamanho 100
+SelectionSort 0.000000 segs
+InsertionSort 0.000000 segs
+BubbleSort 0.000000 segs
+ShellSort 0.000000 segs
+QuickSort 0.000000 segs
+HeapSort 0.000000 segs
+
+Tamanho 1000
+SelectionSort 0.002000 segs
+InsertionSort 0.002000 segs
+BubbleSort 0.003000 segs
+ShellSort 0.033000 segs
+QuickSort 0.000000 segs
+HeapSort 0.000000 segs
+
+Tamanho 10000
+SelectionSort 0.281000 segs
+InsertionSort 0.126000 segs
+BubbleSort 0.384000 segs
+ShellSort 6.014000 segs
+QuickSort 0.002000 segs
+HeapSort 0.000000 segs
+
+Tamanho 50000
+SelectionSort 7.936000 segs
+InsertionSort 3.671000 segs
+BubbleSort 11.008000 segs
+ShellSort 176.110992 segs
+QuickSort 0.010000 segs
+HeapSort 0.000000 segs
+
+Tamanho 100000
+SelectionSort 30.611000 segs
+InsertionSort 14.289000 segs
+BubbleSort 44.416000 segs
+ShellSort 835.231018 segs
+QuickSort 0.020000 segs
+HeapSort 0.000000 segs
